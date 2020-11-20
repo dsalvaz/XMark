@@ -1,10 +1,10 @@
 #  XMark - A Benchmark for Evaluating Node-Attributed Community Discovery Algorithms
 
-[![pyversions](https://img.shields.io/pypi/pyversions/eva_lcd.svg)](https://badge.fury.io/py/xmark)
-[![PyPI version](https://badge.fury.io/py/eva_lcd.svg)](https://badge.fury.io/py/xmark)
-[![Build Status](https://travis-ci.org/GiulioRossetti/Eva.svg?branch=master)](https://travis-ci.org/dsalvaz/XMark)
-[![Coverage Status](https://coveralls.io/repos/github/GiulioRossetti/Eva/badge.svg?branch=master)](https://coveralls.io/github/dsalvaz/XMark?branch=master)
-[![PyPI download month](https://img.shields.io/pypi/dm/eva_lcd.svg?color=blue&style=plastic)](https://pypi.python.org/pypi/xmark/)
+[![pyversions](https://img.shields.io/pypi/pyversions/xmark.svg)](https://badge.fury.io/py/xmark)
+[![PyPI version](https://badge.fury.io/py/xmark.svg)](https://badge.fury.io/py/xmark)
+[![Build Status](https://travis-ci.org/dsalvaz/XMark.svg?branch=master)](https://travis-ci.org/dsalvaz/XMark)
+[![Coverage Status](https://coveralls.io/repos/github/dsalvaz/XMark/badge.svg?branch=master)](https://coveralls.io/github/dsalvaz/XMark?branch=master)
+[![PyPI download month](https://img.shields.io/pypi/dm/xmark.svg?color=blue&style=plastic)](https://pypi.python.org/pypi/xmark/)
 
 
 ## Citation
