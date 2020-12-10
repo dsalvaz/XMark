@@ -30,3 +30,5 @@ class XMarkTestCase(unittest.TestCase):
         self.assertEquals(len(set(set1.values())), len(coms))
         self.assertEquals(len(set(set2.values())), len(coms))
 
+if __name__ == '__main__':
+    unittest.main()
