@@ -10,7 +10,8 @@
 ## Citation
 If you use our algorithm please cite the following work:
 
->
+> Citraro, S., & Rossetti, G. (2021). X-Mark: a benchmark for node-attributed community discovery algorithms. Social Network Analysis and Mining, 11(1), 1-14.
+> https://link.springer.com/article/10.1007/s13278-021-00823-2
 
 
 ## Installation
