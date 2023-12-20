@@ -24,7 +24,7 @@ Alternatively use pip:
 sudo pip install xmark
 ```
 
-Eva is written in python and requires the following package to run:
+X-Mark is written in python and requires the following package to run:
 - networkx
 - numpy
 
